@@ -1,0 +1,6 @@
+{
+  "name": "Sohail Autos POS & Retail Management System",
+  "description": "Offline-first automotive and audio retail POS system with inventory, serialized tracking, job cards, and A4 billing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
